@@ -225,8 +225,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .wave-btn__waves {
 	position: absolute;
-	width: 280px;
-	height: 280px;
+	width: 250px;
+	height: 250px;
 	background-color: #c20f02;
 	top: 0;
 	left: 0;
@@ -656,7 +656,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 24px;
 }
 .item-card__photo img {
-  object-fit: cover;
+  max-width: 100%;
 
 }
 .item-card__title {
